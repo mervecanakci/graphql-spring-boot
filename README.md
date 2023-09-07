@@ -7,4 +7,10 @@
 - #### GraphQL, tek bir API noktası üzerinden tüm verilere erişimi sağlar, bu da RESTful API'lerdeki çok sayıda noktayla karşılaştırıldığında daha kolay bakım yapılmasını sağlar.
 - #### GraphQL, veri tiplerini tanımlama avantajı sunar. Bu, verilerin ne tür olduğunu belirlemeyi kolaylaştırır ve dökümantasyonu geliştirir.
 - #### GraphQL, ilişkisel verilere kolay erişim sağlar ve gerektiğinde ilişkili verileri almayı mümkün kılar.
-http://localhost:8080/graphiql?path=/graphql
+
+***
+
+##### GraphQL sorgularını test etmek için : 
+
+* http://localhost:8080/graphiql
+- Ayrıca postman collection dosyası da mevcuttur.

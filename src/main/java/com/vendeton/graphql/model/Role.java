@@ -1,2 +1,5 @@
-package com.vendeton.graphql.model;public enum Role {
+package com.vendeton.graphql.model;
+
+public enum Role {
+    USER, ADMIN
 }

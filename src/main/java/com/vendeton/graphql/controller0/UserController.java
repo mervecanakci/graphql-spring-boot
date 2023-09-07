@@ -1,4 +1,4 @@
-package com.vendeton.graphql.controller;
+package com.vendeton.graphql.controller0;
 
 import com.vendeton.graphql.model.User;
 import com.vendeton.graphql.model.UserRequest;
